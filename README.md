@@ -1,2 +1,2 @@
-- 👋 Hi, This is official github account for [LearnHat](https://learnhat.com/)
+- 👋 Hi, This is official github account for Orion Edutech
 - Building "**Edtech for Bharat**" 
